@@ -9,7 +9,7 @@ if(isset($_POST['submit'])){
     $product_image = $_FILES['Pimage'];
     $image_location = $_FILES['Pimage']['tmp_name'];
     $image_name = $_FILES['Pimage']['name'];
-    $image_des = "Uploadedimage/".$image_name;
+    $image_des = "e-commerce/Images/".$image_name;
     move_uploaded_file($image_location, $image_des);
     $product_category = $_POST['Pages'];
 

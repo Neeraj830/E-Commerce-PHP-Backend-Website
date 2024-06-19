@@ -185,7 +185,7 @@
                     echo "
                     <tr>
                         <td>{$row['Id']}</td>
-                        <td><img src='{$row['PImage']}' alt='Product Image'></td>
+                        <td><img src='../../Images/{$row['PImage']}' alt='Product Image'></td>
                         <td>{$row['PName']}</td>
                         <td>{$row['PPrice']}</td>
                         <td>{$row['PCategory']}</td>

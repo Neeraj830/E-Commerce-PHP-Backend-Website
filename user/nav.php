@@ -19,10 +19,8 @@
                 <span class="bar"></span>
             </div>
             <ul class="navbar-menu">
-                <li class="navbar-item"><a href="#" class="navbar-links">Login</a></li>
-                <li class="navbar-item"><a href="#" class="navbar-links">Register</a></li>
-                <!-- <li class="navbar-item"><a href="#" class="navbar-links">Contact</a></li>
-                <li class="navbar-item"><a href="#" class="navbar-links">Cart</a></li> -->
+                <li class="navbar-item"><a href="form/login.php" class="navbar-links">Login</a></li>
+                <li class="navbar-item"><a href="form/register.php" class="navbar-links">Register</a></li>
             </ul>
         </div>
     </nav>
