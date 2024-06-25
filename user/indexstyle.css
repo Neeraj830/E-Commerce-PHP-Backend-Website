@@ -15,6 +15,9 @@ body {
 h1 {
     color: #333;
 }
+p{
+    align-items: center;
+}
 
 .buttons {
     margin-bottom: 20px;

@@ -12,7 +12,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if ($con->query($sql) === TRUE) {
         echo "<script>
     alert('Registration successfull');
-    window.location.href='../index.php';
+    window.location.href='login.php';
     </script>
     ";
     } else {

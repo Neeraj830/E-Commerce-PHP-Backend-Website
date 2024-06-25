@@ -14,7 +14,7 @@ body {
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    max-width: 400px;
+    max-width: 420px;
     width: 100%;
 }
 
@@ -34,6 +34,7 @@ input {
     width: 100%;
     padding: 10px;
     margin-bottom: 20px;
+    margin-right: 20px;
     border: 1px solid #ccc;
     border-radius: 4px;
 }
