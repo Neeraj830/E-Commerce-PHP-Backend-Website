@@ -88,7 +88,8 @@ $con->close();
                         <p class="price">Price: $<?php echo $product['PPrice']; ?></p>
                         <div class="product-buttons">
                             <form action="add_to_cart.php" method="post">
-                                <input type="hidden" name="id" value="<?php echo $product['Id']; ?>">
+                                <input type="hidden" name="product_id" value="<?php echo $product['Id']; ?>">
+                                <input type="hidden" name="quantity" value="1">
                                 <button type="submit" class="add-to-cart">Add to Cart</button>
                             </form>
                             <a href=""><button class="view-details">View Details</button></a>

@@ -86,7 +86,7 @@
             <p>Welcome to My NNN Store! We offer a wide range of products to suit all your needs. Browse through our collection of bags, laptops, and phones. Enjoy your shopping experience!</p>
         </div>
         <div class="images">
-        <img src="../Images/Bag2.jpeg" alt="Bag">
+        <img src="../Images/Bag4.jpeg" alt="Bag">
             <img src="../Images/Laptop2.jpeg" alt="Laptop">
             <img src="../Images/Phone2.jpeg" alt="Phone">
         </div>
